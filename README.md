@@ -9,17 +9,14 @@ The purpose of this project was to build a single-page application that meets Pr
 
   To access this application, visit the following URL: [https://jate-text-editing.herokuapp.com/](https://jate-text-editing.herokuapp.com/). Click anywhere to start editing text!
 
-  ![homepage of application](./images-readme/homepage.png)
+ ![hhhh](https://user-images.githubusercontent.com/109176118/199367532-66afc61e-a0e7-4711-9b9f-1f4bdf8c5a76.PNG)
+
 
  ## Installation
 
   To install as a desktop application, click on the "Install" button.
 
- ![install application](./images-readme/install.png)
-
  To uninstall the desktop application, click on the menu in the top right corner and select "Uninstall JATE Text Editor".
-
- ![uninstall application](./images-readme/uninstall.png)
 
   ## Credits
 
